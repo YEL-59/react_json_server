@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title":"my first blogs",
+            "body":"why do we use it?",
+            "author":"mario",
+            "id":1
+        },
+        {
+            "title":"my 2nd blogs",
+            "body":"why we use it?",
+            "author":"yoshi",
+            "id":2
+        },
+        {
+            "title":"my 3rd blogs",
+            "body":"why 3it?",
+            "author":"amin",
+            "id":3
+        }
+    ]
+}
