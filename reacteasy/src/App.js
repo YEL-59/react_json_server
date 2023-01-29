@@ -55,7 +55,8 @@ const [error,Seterror]=useState(null)
         {error}
       </div>}
       <h1 className="text-3xl bg-black text-white p-4">
-        Ami {name} ami yakub er lok!
+        {/* Ami {name} ami yakub er lok! */}
+        hey this is {name} how are you
       </h1>
       {ispending && <div>Loading...</div>}
       {blogs && <Bloglist blogs={blogs} handleDelete={handleDelete}></Bloglist>}
